@@ -111,3 +111,28 @@ Riya_Phulewar_Technical_Assessment
 └── backend
     ├── main.py
     └── requirements.txt
+    
+    ⭐ Learning Outcomes
+
+Through this task I practiced:
+
+React Flow node architecture
+
+Zustand global state management
+
+FastAPI routing & validation logic
+
+UI abstraction using BaseNode
+
+Reusable component design
+
+Real-time graph updates
+
+Connecting frontend to backend
+
+Graph/DAG reasoning
+
+📬 Contact
+
+Riya Phulewar
+📧 riyaphulewar1804@gmail.com
